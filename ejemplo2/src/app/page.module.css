@@ -43,6 +43,11 @@
   padding: 0;
 }
 
+.container__list img{
+  width: 80px;
+  height: 80px;
+}
+
 .list{
   margin-bottom: 5px;
 }
